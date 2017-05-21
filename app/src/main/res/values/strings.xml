@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CobiInteractive</string>
+
+
+    <!-- Adapter View Tags -->
+    <string name="ANDROID_VERSION_VIEW_TAG">0</string>
+</resources>
